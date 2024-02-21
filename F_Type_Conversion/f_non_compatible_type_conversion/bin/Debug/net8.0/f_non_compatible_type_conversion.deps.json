@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "f_non_compatible_type_conversion/1.0.0": {
+        "runtime": {
+          "f_non_compatible_type_conversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f_non_compatible_type_conversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

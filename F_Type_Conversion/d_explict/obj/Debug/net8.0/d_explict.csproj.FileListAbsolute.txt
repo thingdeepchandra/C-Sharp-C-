@@ -1,0 +1,14 @@
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\bin\Debug\net8.0\d_explict.exe
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\bin\Debug\net8.0\d_explict.deps.json
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\bin\Debug\net8.0\d_explict.runtimeconfig.json
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\bin\Debug\net8.0\d_explict.dll
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\bin\Debug\net8.0\d_explict.pdb
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.AssemblyInfoInputs.cache
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.AssemblyInfo.cs
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.csproj.CoreCompileInputs.cache
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.dll
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\refint\d_explict.dll
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.pdb
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\d_explict.genruntimeconfig.cache
+C:\Users\Deepchandra\Desktop\SCCS6\F_Type_Conversion\d_explict\obj\Debug\net8.0\ref\d_explict.dll

@@ -1,0 +1,14 @@
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\bin\Debug\net8.0\a_constructor.exe
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\bin\Debug\net8.0\a_constructor.deps.json
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\bin\Debug\net8.0\a_constructor.runtimeconfig.json
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\bin\Debug\net8.0\a_constructor.dll
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\bin\Debug\net8.0\a_constructor.pdb
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.AssemblyInfoInputs.cache
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.AssemblyInfo.cs
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.csproj.CoreCompileInputs.cache
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.dll
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\refint\a_constructor.dll
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.pdb
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\a_constructor.genruntimeconfig.cache
+C:\Users\Deepchandra\Desktop\SCCS6\G_Constructror_Disrtuctor\a_constructor\obj\Debug\net8.0\ref\a_constructor.dll
